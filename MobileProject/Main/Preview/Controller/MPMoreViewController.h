@@ -27,6 +27,16 @@
 #import "MPExpandHideViewController.h"
 #import "MPFormViewController.h"
 #import "MPJavaScriptCoreViewController.h"
+#import "MPViewControllerLifeCycle.h"
+#import "MPMasonryViewController.h"
+#import "MPKeyboardViewController.h"
+#import "MPNavigationViewController.h"
+#import "MPTableSDWebImageViewController.h"
+#import "MPRunTimeViewController.h"
+#import "MPDragTableViewController.h"
+#import "MPCalendarViewController.h"
+#import "MPFDFullscreenPopDemoViewController.h"
+#import "MPLazyScrollViewController.h"
 
 @interface MPMoreViewController : BaseViewController
 
